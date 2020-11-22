@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">buscatusservicios</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_login">Iniciar Sesión</string>
+    <string name="check_inicio_sesion">Iniciar Automaticamente</string>
+    <string name="btn_register">Nuevo Usuario</string>
+    <string name="message_error_login">Email ó contraseña incorrecta</string>
+    <string name="message_empty_login">Email ó contraseña no pueden ser vacias</string>
+    <string name="message_error_server">Se ha presentado una falla</string>
+    <string name="message_token_invalid">Token Invalido</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
